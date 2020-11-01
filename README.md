@@ -1,1 +1,1 @@
-# STGCN-IPMI19
+# STGCN
